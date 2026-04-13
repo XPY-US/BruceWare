@@ -11,7 +11,7 @@ ScriptBase provides a curated collection of **beginner‑friendly**, **device‑
 Designed for clarity. Built for learning. Ready for real hardware.
 
 </div>
-
+UPDATEDS: JUST ADDED JAMMERS 
 ---
 
 ## 📘 Overview
