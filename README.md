@@ -1,105 +1,92 @@
-![Verified](https://img.shields.io/badge/Verified-00AEEF?style=flat&logo=github&logoColor=white)
+# ScriptBase
 
-<div align="center">
+ScriptBase is a collection of beginner‑friendly Bruce firmware scripts designed for use across all Bruce‑compatible ESP32 devices, including:
 
-# 🚀 ScriptBase  
-### Beginner‑Friendly Bruce Firmware Scripts for Every Device
-
-**Compatible with:**
 - M5StickC PLUS2  
 - LilyGO T‑Embed  
 - Flipper‑style ESP32 devices  
-- Any ESP32 device supported by Bruce  
+- Any additional hardware supported by the Bruce runtime  
 
-A growing library of **simple, safe, reusable** Bruce scripts designed to help new developers learn Bruce scripting while giving advanced users a solid foundation to build on.
-
----
-
-</div>
-
-## 📦 What This Repository Contains
-
-### **Beginner Bruce Scripts**
-Simple examples showing how to use the Bruce API:
-- Display rendering  
-- Buttons  
-- Sensors  
-- Timers  
-- Basic UI  
-
-### **Cross‑Device Compatible Utilities**
-Scripts written to run on **any Bruce device** without modification.
-
-### **Reusable Modules**
-Small functions you can import into your own apps.
-
-### **Learning‑Focused Examples**
-Readable, well‑structured code meant to teach new Bruce developers the right way.
-
-> If you want, I can generate a full index of every file once you upload your folder tree.
+The repository provides clear, safe, and reusable examples intended to accelerate onboarding for new developers while offering a reliable foundation for more advanced projects.
 
 ---
 
-## 🧠 Why ScriptBase Exists
+## Repository Overview
 
-ScriptBase is built to:
+ScriptBase includes the following categories of resources:
 
-- Help beginners learn Bruce scripting quickly  
-- Provide ready‑to‑use examples for any supported device  
-- Offer a clean starting point for custom apps  
-- Keep scripts organized and easy to reuse  
-- Support larger projects like **Traplixy Dungeon**, **Script Hub**, and more  
+### Beginner Bruce Scripts
+Introductory examples demonstrating core Bruce API functionality, including display rendering, button input, timers, and sensor access.
 
-Everything here is written with **clarity**, **compatibility**, and **expandability** in mind.
+### Cross‑Device Compatible Utilities
+Scripts written to operate consistently across all supported Bruce devices without modification.
+
+### Reusable Modules
+Modular components designed for import into larger applications, enabling clean and maintainable development workflows.
+
+### Learning‑Focused Examples
+Readable, well‑structured code samples intended to support new developers in understanding Bruce development patterns and best practices.
 
 ---
 
-## 🛠️ Getting Started
+## Purpose and Goals
 
-### 1. Install Bruce Firmware  
-Works on any Bruce‑compatible ESP32 device.
+ScriptBase was created to:
 
-### 2. Upload Scripts  
-Use:
-- Bruce Web IDE  
+- Provide a clear starting point for developers new to Bruce  
+- Offer ready‑to‑use examples compatible with multiple hardware platforms  
+- Maintain an organized and reusable script library  
+- Support larger Bruce‑based projects, including Traplixy Dungeon and Script Hub  
+- Promote consistency, clarity, and safe development practices  
+
+All scripts are written with an emphasis on compatibility, maintainability, and educational value.
+
+---
+
+## Getting Started
+
+### 1. Install Bruce Firmware
+Ensure your device is running the latest version of Bruce. All ESP32‑based devices listed above are supported.
+
+### 2. Upload Scripts
+Scripts may be transferred using:
+
+- The Bruce Web IDE  
 - USB file transfer  
-- Your own Script Hub app  
+- A custom script management application  
 
-### 3. Run the Script  
-Open it from your device’s file browser or launcher.
+### 3. Execute Scripts
+Scripts can be launched directly from the device’s file browser or through a custom launcher.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-Contributions are welcome — especially:
-- Beginner examples  
-- Display helpers  
-- Input handling modules  
-- Cross‑device utilities  
+Contributions are welcome. The project benefits most from:
 
-**Steps:**
-1. Fork the repo  
-2. Create a branch  
-3. Add your script  
+- Additional beginner‑level examples  
+- Cross‑device compatibility improvements  
+- Display and input handling utilities  
+- Modular components for reuse in larger applications  
+
+### Contribution Process
+
+1. Fork the repository  
+2. Create a feature branch  
+3. Commit your changes  
 4. Submit a pull request  
 
 ---
 
-## 👤 Maintainer
+## Maintainer
 
-**XPY‑US**
-<svg width="16" height="16" viewBox="0 0 24 24" style="vertical-align: middle; margin-left: 4px;">
-  <circle cx="12" cy="12" r="10" fill="#00f2ea" />
-  <path d="M9.2 12.5l2 2.1 3.7-4.6" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+**XPY‑US**  
+![Verified](https://img.shields.io/badge/Verified-00AEEF?style=flat&logo=github&logoColor=white)
 
 ---
 
-<div align="center">
+## Support
 
-## ❤️ Support This Project
+To support ongoing development, visit:
 
-[![Support ScriptBase](https://img.shields.io/badge/Support-ScriptBase-%23ff4ddb?style=for-the-badge)](https://github.com/sponsors/XPY-US)
-
-</div>
+https://github.com/sponsors/XPY-US
