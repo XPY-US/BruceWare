@@ -6,6 +6,7 @@
 ![Verified](https://img.shields.io/badge/Verified-00AEEF?style=flat&logo=github&logoColor=white)
 ![Compatibility](https://img.shields.io/badge/ESP32-Universal-4CAF50)
 ![Status](https://img.shields.io/badge/Project-Active-2962FF)
+![YouTube](https://img.shields.io/badge/YouTube-XPY--US-FF0000?style=flat&logo=youtube&logoColor=white)
 
 BruceWare Beginner Friendly provides a curated collection of **beginner‑friendly**,  
 **device‑safe**, and **cross‑compatible** Bruce firmware scripts.  
@@ -17,8 +18,8 @@ Designed for clarity. Built for learning. Ready for real hardware.
 
 ## 🆕 Updates
 
-### **JUST ADDED: Sub‑GHz “Jammer‑Style” Example Files**  
-These are **educational RF noise examples** organized by frequency.  
+### **JUST ADDED: Sub‑GHz “Jammer‑Style” Educational Files**
+These are **safe RF noise examples** organized by frequency.  
 They help beginners understand Sub‑GHz structure, file formatting,  
 and how different frequency bands are commonly used in real devices.
 
@@ -29,7 +30,7 @@ they are strictly for learning how Bruce handles Sub‑GHz files.
 
 ## 📘 Overview
 
-BruceWare Beginner Friendly is engineered to support developers working across multiple  
+BruceWare Beginner Friendly supports developers working across multiple  
 Bruce‑compatible ESP32 devices, including:
 
 - **M5StickC PLUS2**  
@@ -93,6 +94,16 @@ Use any supported method:
 ### **3. Run Scripts**
 Launch scripts directly from the device’s file browser  
 or through a custom launcher.
+
+---
+
+## 📺 YouTube Channel
+
+### **XPY‑US**
+Explore BruceWare tutorials, firmware demos,  
+and real‑device showcases on YouTube.
+
+👉 [Subscribe to XPY‑US](https://www.youtube.com/@XPY-US)
 
 ---
 
